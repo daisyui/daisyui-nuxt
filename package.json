@@ -11,10 +11,10 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/tailwindcss": "^6.9.5",
-    "daisyui": "^4.4.0",
-    "nuxt": "^3.8.1",
-    "vue": "^3.3.8",
-    "vue-router": "^4.2.5"
+    "@nuxtjs/tailwindcss": "latest",
+    "daisyui": "latest",
+    "nuxt": "latest",
+    "vue": "latest",
+    "vue-router": "latest"
   }
 }
